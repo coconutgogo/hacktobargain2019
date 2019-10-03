@@ -1,0 +1,9 @@
+/* Hello All. Now that you are here it will be great to create a master list of "Hello World" in different programming languages.
+
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
